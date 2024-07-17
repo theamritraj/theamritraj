@@ -35,6 +35,7 @@ You can click the Preview link to take a look at your changes.
 <a href="contact.amritraj@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/103574856/220101591-caaceff1-df2e-481c-b554-42825a04375d.png" alt="Amritraj" height="25" width="30" /></a>
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theamritraj" alt="theamritraj" /></a> </p>
 
 
 
@@ -225,7 +226,6 @@ You can click the Preview link to take a look at your changes.
  </td>
  </tbody>
 </table>
-
 
 <!--<br>
 <p align="center"><img align="center" src="profile-3d-contrib/profile-night-rainbow.svg" alt="Amrit Raj"></p> -->
