@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 <table align="center" >
 <tbody>
 
-<!-- Row 1 -->
+<!-- Row 1 
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝐅𝐥𝐮𝐭𝐭𝐞𝐫</span><br><br></p>
@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 </td>
 </tr>
 
-<!-- Row 2 -->
+<!-- Row 2 
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐒𝐭𝐮𝐝𝐢𝐨</span><br><br></p>
@@ -145,7 +145,7 @@ You can click the Preview link to take a look at your changes.
 </td>
 </tr>
  
- <!-- Row 6 -->
+ <!-- Row 6 
 <tr valign="top">
 <td width="25%" align="center">
 <p dir="auto"><span>𝗟𝗶𝗻𝘂𝘅</span><br><br></p>
